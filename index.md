@@ -20,7 +20,7 @@
         right: 20px;
         top: 20px;
         margin: 0px auto;
-        width: 130px;
+        width: 135px;
         height: 40px;
         padding: 10px;
         border: none;
@@ -41,7 +41,7 @@
         right: 20px;
         top: 70px;
         margin: 0px auto;
-        width: 130px;
+        width: 135px;
         height: 40px;
         padding: 10px;
         border: none;
@@ -62,7 +62,7 @@
         right: 20px;
         top: 120px;
         margin: 0px auto;
-        width: 130px;
+        width: 135px;
         height: 40px;
         padding: 10px;
         border: none;
@@ -83,7 +83,7 @@
         right: 20px;
         top: 170px;
         margin: 0px auto;
-        width: 130px;
+        width: 135px;
         height: 40px;
         padding: 10px;
         border: none;
@@ -104,7 +104,7 @@
         right: 20px;
         top: 220px;
         margin: 0px auto;
-        width: 130px;
+        width: 135px;
         height: 40px;
         padding: 10px;
         border: none;
@@ -125,7 +125,7 @@
         right: 20px;
         top: 270px;
         margin: 0px auto;
-        width: 130px;
+        width: 135px;
         height: 40px;
         padding: 10px;
         border: none;
