@@ -25,7 +25,7 @@
         padding: 10px;
         border: none;
         border-radius: 3px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
         text-align: center;
         color: #333;
@@ -46,7 +46,7 @@
         padding: 10px;
         border: none;
         border-radius: 3px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
         text-align: center;
         color: #333;
@@ -67,7 +67,7 @@
         padding: 10px;
         border: none;
         border-radius: 3px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
         text-align: center;
         color: #333;
@@ -88,7 +88,7 @@
         padding: 10px;
         border: none;
         border-radius: 3px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
         text-align: center;
         color: #333;
@@ -109,7 +109,7 @@
         padding: 10px;
         border: none;
         border-radius: 3px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
         text-align: center;
         color: #333;
@@ -130,7 +130,7 @@
         padding: 10px;
         border: none;
         border-radius: 3px;
-        font-size: 14px;
+        font-size: 13px;
         font-weight: bold;
         text-align: center;
         color: #333;
