@@ -17,7 +17,7 @@
     #campbeltown {
         display: block;
         position: absolute;
-        right: 0px;
+        right: 20px;
         top: 20px;
         margin: 0px auto;
         width: 135px;
